@@ -1,0 +1,126 @@
+2025-06-08 20:13:53.588905 | Usuario: ola
+2025-06-08 20:13:53.588919 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:14:09.442771 | Usuario: estou animado
+2025-06-08 20:14:09.442779 | Bot: 🎬 Que tal assistir **Missão Impossível**? É um ótimo filme de **ação**!
+
+2025-06-08 20:14:28.876358 | Usuario: quero outro[
+2025-06-08 20:14:28.876367 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:14:43.322519 | Usuario: genero animado
+2025-06-08 20:14:43.322528 | Bot: 🎬 Que tal assistir **Toy Story**? É um ótimo filme de **ação**!
+
+2025-06-08 20:16:11.253577 | Usuario: outra opçao
+2025-06-08 20:16:11.253586 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:16:18.862772 | Usuario: triste
+2025-06-08 20:16:18.862780 | Bot: 🎬 Que tal assistir **Se Beber, Não Case**? É um ótimo filme de **comédia**!
+
+2025-06-08 20:28:23.244599 | Usuario: oi
+2025-06-08 20:28:23.244608 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:28:31.170198 | Usuario: chateado
+2025-06-08 20:28:31.170207 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:28:37.372026 | Usuario: chateado
+2025-06-08 20:28:37.372035 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:28:43.818055 | Usuario: comedia
+2025-06-08 20:28:43.818064 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:29:16.725846 | Usuario: ola
+2025-06-08 20:29:16.725854 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:29:20.553934 | Usuario: triste
+2025-06-08 20:29:20.553942 | Bot: 🎬 Que tal assistir **O Lobo de Wall Street**? É um ótimo filme de **comédia**!
+
+2025-06-08 20:29:30.073010 | Usuario: nçao
+2025-06-08 20:29:30.073020 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:29:35.047860 | Usuario: não
+2025-06-08 20:29:35.047870 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:32:50.079524 | Usuario: oii
+2025-06-08 20:32:50.079534 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:32:57.360016 | Usuario: animado
+2025-06-08 20:32:57.360029 | Bot: 🎬 Que tal assistir **Pantera Negra**? É um ótimo filme de **ação**!
+
+2025-06-08 20:33:02.067957 | Usuario: ok
+2025-06-08 20:33:02.067966 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:05.078094 | Usuario: ok
+2025-06-08 20:33:05.078103 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:06.926402 | Usuario: aks~]
+2025-06-08 20:33:06.926414 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:07.784924 | Usuario: asas
+2025-06-08 20:33:07.784932 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.072842 | Usuario: as
+2025-06-08 20:33:08.072851 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.263064 | Usuario: sa
+2025-06-08 20:33:08.263072 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.444007 | Usuario: sa
+2025-06-08 20:33:08.444015 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.614591 | Usuario: sa
+2025-06-08 20:33:08.614599 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.773981 | Usuario: sa
+2025-06-08 20:33:08.773989 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:08.943105 | Usuario: sa
+2025-06-08 20:33:08.943114 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.112534 | Usuario: sa
+2025-06-08 20:33:09.112542 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.272340 | Usuario: as
+2025-06-08 20:33:09.272349 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.447337 | Usuario: as
+2025-06-08 20:33:09.447345 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.622182 | Usuario: sa
+2025-06-08 20:33:09.622190 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.782112 | Usuario: as
+2025-06-08 20:33:09.782120 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:09.952008 | Usuario: sa
+2025-06-08 20:33:09.952016 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.128729 | Usuario: as
+2025-06-08 20:33:10.128737 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.307616 | Usuario: sa
+2025-06-08 20:33:10.307624 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.472483 | Usuario: s
+2025-06-08 20:33:10.472491 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.648355 | Usuario: as
+2025-06-08 20:33:10.648363 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.822872 | Usuario: as
+2025-06-08 20:33:10.822880 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:10.987410 | Usuario: a
+2025-06-08 20:33:10.987418 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:11.158937 | Usuario: sa
+2025-06-08 20:33:11.158945 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:11.331856 | Usuario: sa
+2025-06-08 20:33:11.331865 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:11.518442 | Usuario: sa
+2025-06-08 20:33:11.518453 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
+2025-06-08 20:33:11.682887 | Usuario: sa
+2025-06-08 20:33:11.682895 | Bot: Me diga um gênero que você gosta (ação, comédia...) ou como você está se sentindo (triste, animado...).
+
