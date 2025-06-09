@@ -6,7 +6,6 @@ import random
 import string
 import unicodedata
 
-# --- CONFIGURAÇÃO INICIAL E CARREGAMENTO DE DADOS ---
 try:
     stopwords.words('portuguese')
 except LookupError:
@@ -20,7 +19,7 @@ except FileNotFoundError:
     print("Erro: Arquivo 'filmes.csv' não encontrado. Crie o arquivo para o chatbot funcionar.")
     exit()
 
-# --- DEFINIÇÕES E DICIONÁRIOS GLOBAIS ---
+
 EMOCAO_GENEROS = {
     "triste": "comédia", "chateado": "comédia", "pra baixo": "comédia",
     "feliz": "aventura", "alegre": "aventura", "contente": "aventura",
@@ -39,7 +38,7 @@ RESPOSTAS_SEM_IDEIA = ["Me diga um gênero que você gosta (ação, comédia...)
 FRASES_DE_TRANSICAO = ["Ok, sem problemas. ", "Entendi. Que tal esta outra opção? ", "Certo, buscando outra sugestão... "]
 
 
-# --- FUNÇÕES AUXILIARES ---
+
 def remover_acentos(texto):
     nfkd_form = unicodedata.normalize('NFKD', texto)
     return "".join([c for c in nfkd_form if not unicodedata.combining(c)])
@@ -69,7 +68,7 @@ def recomendar_por_genero(genero, estado_conversa):
         estado_conversa['ultimo_genero_sugerido'] = None
     return nova_mensagem, estado_conversa
 
-# --- FUNÇÃO PRINCIPAL DO CHATBOT ---
+
 def chatbot_responder(mensagem_usuario, estado_conversa):
     tokens = limpar_texto(mensagem_usuario)
     nova_mensagem = ""
@@ -81,23 +80,23 @@ def chatbot_responder(mensagem_usuario, estado_conversa):
         nova_mensagem = random.choice(RESPOSTAS_DESPEDIDA)
         estado_conversa = {"ultimo_genero_sugerido": None, "filmes_ja_sugeridos": []}
     
-    # MUDANÇA: Criamos um bloco SÓ para o "sim", que agora é sensível ao contexto
+   
     elif 'sim' in tokens:
         ultimo_genero = estado_conversa.get("ultimo_genero_sugerido")
         if ultimo_genero:
-            # Se já havia um gênero na conversa, "sim" significa "sim, quero outro"
+            
             recomendacao, estado_conversa_atualizado = recomendar_por_genero(ultimo_genero, estado_conversa)
             transicao = random.choice(FRASES_DE_TRANSICAO)
             nova_mensagem = transicao + recomendacao
             estado_conversa = estado_conversa_atualizado
         else:
-            # Se a conversa está no começo, "sim" significa "sim, me ajude"
+           
             filme = filmes_df.sample().iloc[0]
             nova_mensagem = f"Claro! Que tal algo aleatório para começar? Veja: {filme['titulo']} ({filme['genero']}). O que acha?"
             estado_conversa['ultimo_genero_sugerido'] = filme['genero']
             estado_conversa['filmes_ja_sugeridos'] = [filme['titulo']]
 
-    # MUDANÇA: O "sim" foi removido desta lista para ter seu próprio tratamento
+  
     elif any(t in tokens for t in ["obrigado", "obrigada", "valeu", "gostei", "perfeito", "ok"]):
         nova_mensagem = random.choice(RESPOSTAS_AGRADECIMENTO)
         
@@ -141,7 +140,7 @@ def chatbot_responder(mensagem_usuario, estado_conversa):
             
     return nova_mensagem, estado_conversa
 
-# --- BLOCO DE TESTE NO TERMINAL ---
+
 if __name__ == '__main__':
     estado_conversa_atual = {"ultimo_genero_sugerido": None, "filmes_ja_sugeridos": []}
     print("Chatbot de Filmes iniciado para teste no terminal! Digite 'tchau' para sair.")
